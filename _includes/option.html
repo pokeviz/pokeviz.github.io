@@ -1,0 +1,8 @@
+<div class="ui grid">
+{% if page.options %}
+    {% for option in page.options %}
+        {% capture filename %}option_{{option}}.html{% endcapture %}
+        {% include {{filename}} %}
+    {% endfor %}
+{% endif %}
+</div>

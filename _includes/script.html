@@ -1,0 +1,8 @@
+<script type="text/javascript" src="{{ "/lib/require/require.js" | prepend: site.baseurl }}"></script>
+<script>
+    require(["{{ "/lib/require/common.js" | prepend: site.baseurl }}"], function() {})
+</script>
+{% if page.number > 0 %}
+{% assign pagejs = "/lib/js/v" | append: page.number | append: ".js" %}
+<script type="text/javascript" src="{{ pagejs | prepend: site.baseurl }}"></script>
+{% endif %}
