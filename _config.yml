@@ -1,7 +1,7 @@
 # Site settings
 title: Pokeviz
 email: hello@albert.wtf
-description: "> All Things Pokemon Visualization!"
+description: "All Things Pokemon Visualization!"
 baseurl: "" # base
 url: "http://pokeviz.github.io" # base
 github_username:  pokeviz

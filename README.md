@@ -51,6 +51,7 @@ Solution: redundant data rather than doing an extra join on species id
 |javascript parseInt|https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/parseInt|
 |javascript design patterns|https://addyosmani.com/resources/essentialjsdesignpatterns/book/|
 |javascript event handlers organizing|http://stackoverflow.com/questions/247209/commonly-accepted-best-practices-around-code-organization-in-javascript|
+|javascript document ready|http://stackoverflow.com/questions/9899372/pure-javascript-equivalent-to-jquerys-ready-how-to-call-a-function-when-the|
 
 
 ## d3js
@@ -106,6 +107,7 @@ Solution: redundant data rather than doing an extra join on species id
 |Problem|Link|
 |---|---|
 |visibility hidden vs display none|http://stackoverflow.com/questions/133051/what-is-the-difference-between-visibilityhidden-and-displaynone|
+|border bottom none|http://stackoverflow.com/questions/4114552/how-to-remove-the-bottom-border-of-a-box-with-css|
 
 ## liquid
 |Problem|Link|
@@ -118,3 +120,7 @@ Solution: redundant data rather than doing an extra join on species id
 
 
 ## UI: Semantic UI
+|Problem|Link|
+|---|---|
+|semantic ui sticky content|http://semantic-ui.com/modules/sticky.html|
+|semantic grid|http://semantic-ui.com/collections/grid.html|

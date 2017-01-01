@@ -1,5 +1,17 @@
 @import 'normalize';
 
+.ui.secondary.pointing.menu {
+    border-bottom: none;
+}
+
+.ui.secondary.inverted.pointing.menu {
+    border-color: transparent;
+}
+
+body {
+    color: rgb(69, 69, 69);
+}
+
 table {
     border-collapse: collapse;
     border-spacing: 0px;
@@ -22,6 +34,8 @@ td {
     position: relative;
     width: 505px;
 }
+
+
 
 .legend {
     font-size: 12px;
