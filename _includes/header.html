@@ -1,19 +1,28 @@
-<div class="ui masthead aligned segment" style="background-color: #ffc6c6;">
-    <div class="ui container">
-        <nav class="ui large secondary inverted pointing menu">
+<div class="ui left vertical inverted labeled visible sidebar menu" style="background-color: #effffe;">
+    <nav>
+    
+    <div class="item">
         <a href="{{ site.baseurl }}/">
             {{ site.title }}
         </a>
-        
-            <div class="right item">
-            {% for page in site.pages %}
-                {% if page.title %}
-                <a href="{{ page.url | prepend: site.baseurl }}">
-                    {{ page.title }}
-                </a>
-                {% endif %}
-            {% endfor %}
-            </div>
-        </nav>
     </div>
+
+    {% for post in site.posts %}
+        <div class="item">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </div>
+    {% endfor %}
+
+
+    {% for page in site.pages %}
+    <div class="item">
+        {% if page.title %}
+        <a href="{{ page.url | prepend: site.baseurl }}">
+            {{ page.title }}
+        </a>
+        {% endif %}
+    </div>
+    {% endfor %}
+
+    </nav>
 </div>

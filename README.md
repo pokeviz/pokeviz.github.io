@@ -18,6 +18,8 @@ Solution: redundant data rather than doing an extra join on species id
 |rect svg style|https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Fills_and_Strokes|
 |html tables optimization|https://msdn.microsoft.com/en-us/library/ms532998(v=vs.85).aspx|
 |html remove all element from node|http://stackoverflow.com/questions/3955229/remove-all-child-elements-of-a-dom-node-in-javascript|
+|pocket guide to SVG|http://svgpocketguide.com/book/|
+
 
 ##  Python
 |Problem|Link|
