@@ -9,9 +9,9 @@ options	:
 - exclude 
 - type
 ---
-Inspiration sources. What this table is all about. What are the options?
+<p>Mostly abandoned. The count here counts the amount of Pokemon with a certain primary type and compare it with other types in a pie chart.</p> 
 
-<p><strong>What does the options represent?</strong></p>
+<p>Head over <a href="/2016/12/19/type-availability.html">here</a> to see a quick explanation of the options.</p>
 
 {% include option.html %}
 
@@ -21,10 +21,5 @@ Inspiration sources. What this table is all about. What are the options?
 <div id="pokeChart"></div>
 
 <h2 class="ui horizontal header divider">	
-    References
-</h2>
-Filler
-
-<h2 class="ui horizontal header divider">	
-    Missing Types?
+    Future Considerations
 </h2>
