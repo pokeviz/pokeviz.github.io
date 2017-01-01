@@ -1,29 +1,17 @@
 <footer>
-	<div>
-		<h2>
-				{{ site.title }}
-		</h2>
+	<div class="ui container">
 		<div>
-			<div>
-				<ul> <!-- contact -->
-					<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-				</ul>
-			</div>
-			<div class="footer-col footer-col-2">
-				<ul class="social-media-list">
+			<div class="left item">
 				{% if site.github_username %}
+					{{ site.github_username }}
 				{% endif %}
-
+				
 				{% if site.twitter_username %}
+					| {{ site.twitter_username }}
 				{% endif %}
-				</ul>
-			</div>
-
-			<div>
-				<p class="text">{{ site.description }}</p>
 			</div>
 		</div>
+		<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 	</div>
-
 </footer>

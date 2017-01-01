@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
 ---
-content
+Site in development!.!

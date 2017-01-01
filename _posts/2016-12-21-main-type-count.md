@@ -13,12 +13,12 @@ Inspiration sources. What this table is all about. What are the options?
 
 <p><strong>What does the options represent?</strong></p>
 
+{% include option.html %}
+
 <h2 class="ui horizontal header divider">
      ✿
 </h2>
 <div id="pokeChart"></div>
-
-{% include option.html %}
 
 <h2 class="ui horizontal header divider">	
     References
