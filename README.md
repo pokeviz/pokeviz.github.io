@@ -119,6 +119,7 @@ Solution: redundant data rather than doing an extra join on species id
 |liquid concant|http://stackoverflow.com/questions/23688939/contatenate-append-a-string-to-another-one-in-jekyll-liquid|
 |liquid for loop|https://help.shopify.com/themes/liquid/objects/for-loops|
 |include dynamic include|https://github.com/jekyll/jekyll/pull/1495|
+|if condition liquid|https://help.shopify.com/themes/liquid/tags/control-flow-tags|
 
 
 ## UI: Semantic UI

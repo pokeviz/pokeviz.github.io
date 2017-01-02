@@ -1,5 +1,9 @@
 @import 'normalize';
 
+#sidebar-nav {
+    background-color: #effffe;
+}
+
 .ui.inverted.menu .item>a:not(.ui) {
     color: rgb(69, 69, 69);
 }
