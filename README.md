@@ -19,6 +19,7 @@ Solution: redundant data rather than doing an extra join on species id
 |html tables optimization|https://msdn.microsoft.com/en-us/library/ms532998(v=vs.85).aspx|
 |html remove all element from node|http://stackoverflow.com/questions/3955229/remove-all-child-elements-of-a-dom-node-in-javascript|
 |pocket guide to SVG|http://svgpocketguide.com/book/|
+|favico|http://stackoverflow.com/questions/11893478/add-favicon-to-website|
 
 
 ##  Python
