@@ -2,7 +2,6 @@
 layout: default
 ---
 <div class="home">
-
     <div class="ui text container">
         <div class="hidden divider"></div>
 
@@ -14,11 +13,17 @@ layout: default
         {% for post in site.posts %}
             <li>
                 <h2>
-                    {{ post.date | date: "%b %-d, %Y" }} | <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </h2>
             </li>
         {% endfor %}
         </ul>
-    </div>
 
+        <h1 class="ui horizontal header divider">
+            Notes
+        </h1>
+        <ul>
+            <li>Launched December 31st, 2016. First two basic visualizations added.</li>
+        </ul>
+    </div>
 </div>
