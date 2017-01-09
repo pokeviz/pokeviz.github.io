@@ -1,5 +1,25 @@
 @import 'normalize';
 
+
+circle, path {
+  cursor: pointer;
+}
+
+
+circle {
+  fill: none;
+  pointer-events: all;
+}
+
+
+#tooltip { 
+    background-color: white;
+    padding: 3px 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+
 #sidebar-nav {
     background-color: #effffe;
 }
@@ -43,6 +63,13 @@ td {
     width: 505px;
 }
 
+#pokeChart2 {
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    width: 720px;
+}
 
 
 .legend {

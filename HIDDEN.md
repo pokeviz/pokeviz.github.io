@@ -30,6 +30,7 @@ Solution: redundant data rather than doing an extra join on species id
 |list comprehension inside list comprehension|http://stackoverflow.com/questions/3766711/python-advanced-nested-list-comprehension-syntax|
 |minify json python|http://stackoverflow.com/questions/33233313/python-json-dumpsval-to-output-minified-json|
 |zip dictionary python|http://stackoverflow.com/questions/209840/map-two-lists-into-a-dictionary-in-python|
+|escaped quotes python json|http://stackoverflow.com/questions/25242262/python-dump-to-json-adds-additional-double-quotes-and-escaping-of-quotes|
 
 ## Javascript
 |Problem|Link|
@@ -71,6 +72,7 @@ Solution: redundant data rather than doing an extra join on species id
 |d3 remove elements|http://stackoverflow.com/questions/16260285/d3-removing-elements|
 |d3 add picture instead of text|http://stackoverflow.com/questions/26428341/how-can-i-add-different-images-instead-of-text-inside-d3-js-piechart-slices|
 |d3 bilevel partitioning|http://bl.ocks.org/mbostock/5944371|
+|d3 attach listeners|http://stackoverflow.com/questions/16678975/how-to-properly-make-d3-event-listener|
 
 ## requirejs
 |Problem|Link|
