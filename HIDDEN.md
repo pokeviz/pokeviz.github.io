@@ -73,6 +73,7 @@ Solution: redundant data rather than doing an extra join on species id
 |d3 add picture instead of text|http://stackoverflow.com/questions/26428341/how-can-i-add-different-images-instead-of-text-inside-d3-js-piechart-slices|
 |d3 bilevel partitioning|http://bl.ocks.org/mbostock/5944371|
 |d3 attach listeners|http://stackoverflow.com/questions/16678975/how-to-properly-make-d3-event-listener|
+|d3 v3 to v4|https://github.com/d3/d3/blob/master/CHANGES.md|
 
 ## requirejs
 |Problem|Link|

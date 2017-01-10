@@ -11,11 +11,13 @@ layout: default
         
         <ul>
         {% for post in site.posts %}
-            <li>
-                <h2>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                </h2>
-            </li>
+            {% if post.old != 1 %}
+                <li>
+                    <h2>
+                        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </h2>
+                </li>
+            {% endif %}
         {% endfor %}
         </ul>
 
@@ -23,6 +25,7 @@ layout: default
             Notes
         </h1>
         <ul>
+            <li>Added a revamped <a href="2016/12/22/main-type-count-revamp.html">Main Type Count!</a></li> 
             <li>Launched December 31st, 2016. First two basic visualizations added.</li>
         </ul>
     </div>

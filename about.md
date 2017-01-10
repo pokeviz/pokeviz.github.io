@@ -3,7 +3,7 @@ layout: post
 title: About
 permalink: /about/
 ---
-<p>Pokemon sprites and animations are made available (compiled) by the hardwork of people over at</p>
+<p>Pokemon sprites and animations are made available (compiled) by the hardwork of people over at:</p>
 <ul>
 	<li>
 		<a href="http://play.pokemonshowdown.com/sprites/xyani/">Smogon</a>: Competitive data, animated Pokemon gifs, new mon data

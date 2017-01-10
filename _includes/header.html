@@ -15,9 +15,26 @@
         </div>
         <div class="menu">
             {% for post in site.posts %}
-                <a class="item" href="{{ post.url | prepend: site.baseurl }}">
-                    {{ post.title }}
-                </a>
+                {% if post.old != 1 %}
+                    <a class="item" href="{{ post.url | prepend: site.baseurl }}">
+                        {{ post.title }}
+                    </a>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+
+    <div class="item">
+        <div class="ui small header">
+            Old Visualizations
+        </div>
+        <div class="menu">
+            {% for post in site.posts %}
+                {% if post.old == 1 %}
+                    <a class="item" href="{{ post.url | prepend: site.baseurl }}">
+                        {{ post.title }}
+                    </a>
+                {% endif %}
             {% endfor %}
         </div>
     </div>
