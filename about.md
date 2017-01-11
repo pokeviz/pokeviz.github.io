@@ -11,7 +11,7 @@ permalink: /about/
 	<li><a href="http://serebii.net">serebii</a>: Easy Pokemon sprite scrape, easy resource</li>
 </ul>
 
-<p>Pokemon data are made available by the hardwork of people over at </p>
+<p>I compiled Pokemon data files and sprites from various websites. The inital Pokemon data are made available by the hardwork of people over at:</p>
 <ul> 
 	<li>
 		<a href="https://pokeapi.co/">Pokeapi</a>: PokeAPI provided all of the ready made csv

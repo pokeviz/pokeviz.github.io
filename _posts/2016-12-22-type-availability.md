@@ -17,7 +17,3 @@ options	:
     ✿
 </h2>
 <div id="visualization"></div>
-
-<h2 class="ui horizontal header divider">
-    Future Considerations
-</h2>
