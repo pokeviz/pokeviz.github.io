@@ -1,14 +1,17 @@
 @import 'normalize';
 
+img.circle {
+    border-radius: 50%;
+}
 
 circle, path {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 
 circle {
-  fill: none;
-  pointer-events: all;
+    fill: none;
+    pointer-events: all;
 }
 
 

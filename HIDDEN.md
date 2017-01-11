@@ -57,6 +57,7 @@ Solution: redundant data rather than doing an extra join on species id
 |javascript design patterns|https://addyosmani.com/resources/essentialjsdesignpatterns/book/|
 |javascript event handlers organizing|http://stackoverflow.com/questions/247209/commonly-accepted-best-practices-around-code-organization-in-javascript|
 |javascript document ready|http://stackoverflow.com/questions/9899372/pure-javascript-equivalent-to-jquerys-ready-how-to-call-a-function-when-the|
+|javascript random in range|http://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range|
 
 
 ## d3js
@@ -116,6 +117,10 @@ Solution: redundant data rather than doing an extra join on species id
 |---|---|
 |visibility hidden vs display none|http://stackoverflow.com/questions/133051/what-is-the-difference-between-visibilityhidden-and-displaynone|
 |border bottom none|http://stackoverflow.com/questions/4114552/how-to-remove-the-bottom-border-of-a-box-with-css|
+|img width height|http://www.w3schools.com/tags/att_img_width.asp|
+|rounded img css|https://www.abeautifulsite.net/how-to-make-rounded-images-with-css|
+|css dynamic bullet points|http://stackoverflow.com/questions/30175292/unordered-list-and-dynamic-bullet-images|
+|pokeball css|https://codepen.io/wifi/pen/IclLn|
 
 ## liquid
 |Problem|Link|
