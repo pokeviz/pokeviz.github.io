@@ -7,8 +7,9 @@ number	: 5
 options	: 
 - generation 
 - stat
+- type
 ---
-Select two stats as axis.
+Select two stats as axis. How Pokemon stat compare to each other.
 
 {% include option.html %}
 
