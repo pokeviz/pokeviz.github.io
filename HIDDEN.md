@@ -31,6 +31,7 @@ Solution: redundant data rather than doing an extra join on species id
 |minify json python|http://stackoverflow.com/questions/33233313/python-json-dumpsval-to-output-minified-json|
 |zip dictionary python|http://stackoverflow.com/questions/209840/map-two-lists-into-a-dictionary-in-python|
 |escaped quotes python json|http://stackoverflow.com/questions/25242262/python-dump-to-json-adds-additional-double-quotes-and-escaping-of-quotes|
+|python dictionary empty|http://stackoverflow.com/questions/23177439/python-checking-if-a-dictionary-is-empty-doesnt-seem-to-work|
 
 ## Javascript
 |Problem|Link|
