@@ -124,6 +124,7 @@ Solution: redundant data rather than doing an extra join on species id
 |rounded img css|https://www.abeautifulsite.net/how-to-make-rounded-images-with-css|
 |css dynamic bullet points|http://stackoverflow.com/questions/30175292/unordered-list-and-dynamic-bullet-images|
 |pokeball css|https://codepen.io/wifi/pen/IclLn|
+|circle fill|https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Fills_and_Strokes|
 
 ## liquid
 |Problem|Link|
