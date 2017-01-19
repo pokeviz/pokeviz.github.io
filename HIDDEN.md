@@ -59,6 +59,7 @@ Solution: redundant data rather than doing an extra join on species id
 |javascript event handlers organizing|http://stackoverflow.com/questions/247209/commonly-accepted-best-practices-around-code-organization-in-javascript|
 |javascript document ready|http://stackoverflow.com/questions/9899372/pure-javascript-equivalent-to-jquerys-ready-how-to-call-a-function-when-the|
 |javascript random in range|http://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range|
+|javascript dictionary variable key|http://stackoverflow.com/questions/10640159/key-for-javascript-dictionary-is-not-stored-as-value-but-as-variable-name|
 
 
 ## d3js
