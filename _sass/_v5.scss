@@ -1,0 +1,15 @@
+.axis path {
+	display: none;
+	fill: none;
+}
+
+.axis line {
+	stroke-opacity: 0.3;
+	shape-rendering: crispEdges;
+	fill: none;
+}
+
+.view {
+	fill: url(#gradient);
+	stroke: #000;
+}
